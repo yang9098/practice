@@ -1,5 +1,5 @@
 
-//class 1
+# class 1
 package dy1107;
 
 public class Methodhap {
@@ -16,7 +16,7 @@ public class Methodhap {
 
 
 
-//class2
+# class2
 package dy1107;
 
 import java.util.Scanner;
@@ -33,5 +33,6 @@ public class method {
 		int result = mymethod.sum(input1,input2);
 		System.out.println(input1 + "부터" + input2 + "까지의 합은" + result + "입니다");
 	}
+
 
 }
